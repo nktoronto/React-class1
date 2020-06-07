@@ -1,0 +1,85 @@
+
+C:\Nusrat>npx create-react-app project3
+npx: installed 98 in 31.128s
+
+Creating a new React app in C:\Nusrat\project3.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+
+> core-js@2.6.11 postinstall C:\Nusrat\project3\node_modules\babel-runtime\node_
+modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js@3.6.5 postinstall C:\Nusrat\project3\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js-pure@3.6.5 postinstall C:\Nusrat\project3\node_modules\core-js-pure
+> node -e "try{require('./postinstall')}catch(e){}"
+
++ react@16.13.1
++ cra-template@1.0.3
++ react-dom@16.13.1
++ react-scripts@3.4.1
+added 1626 packages from 750 contributors and audited 1630 packages in 404.697s
+
+59 packages are looking for funding
+  run `npm fund` for details
+
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+Initialized a git repository.
+
+Installing template dependencies using npm...
+npm WARN tsutils@3.17.1 requires a peer of typescript@>=2.8.0 || >= 3.2.0-dev ||
+ >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta |
+| >= 3.7.0-dev || >= 3.7.0-beta but none is installed. You must install peer dep
+endencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\je
+st-haste-map\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@
+1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"
+})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.2 (node_modules\fse
+vents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@
+2.1.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"}
+)
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\wa
+tchpack-chokidar2\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@
+1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"
+})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\we
+bpack-dev-server\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@
+1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"
+})
+
++ @testing-library/user-event@7.2.1
++ @testing-library/jest-dom@4.2.4
++ @testing-library/react@9.5.0
+added 36 packages from 56 contributors and audited 1666 packages in 24.074s
+
+59 packages are looking for funding
+  run `npm fund` for details
+
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+Compiled successfully!
+
+You can now view project3 in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.1.7:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+Terminate batch job (Y/N)? y
+
+C:\Nusrat\project3>code .
